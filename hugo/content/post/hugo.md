@@ -1,5 +1,5 @@
 ---
-title: "Hugo"
+title: "hugo搭建静态博客"
 date: 2019-06-22T23:54:09+08:00
 lastmod: 2019-06-22T23:54:09+08:00
 keywords: []

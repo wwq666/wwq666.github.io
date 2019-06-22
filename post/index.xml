@@ -6,13 +6,22 @@
     <description>Recent content in Posts on wwq blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 22 Jun 2019 23:54:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 01:18:21 +0800</lastBuildDate>
     
 	<atom:link href="http://wwq666.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo</title>
+      <title>程序员易读错的英文单词</title>
+      <link>http://wwq666.github.io/post/english/</link>
+      <pubDate>Sun, 23 Jun 2019 01:18:21 +0800</pubDate>
+      
+      <guid>http://wwq666.github.io/post/english/</guid>
+      <description> 你以为你读对了  byte babel buffer ajax Angular archive attribute avatar access admin agile app analyse analysis Linux Daemon Django data integer resume bash domain Ubuntu CentOS integer origin array json jpg Java cache queue image width padding margin avatar label git plugin parse async alias Apache Nginx chaos hidden query MySQL Oracle archive bind mobile protocol variable Chrome console Safari Django YouTube secret Adobe amazon google null export execute explore explode init config controller patch module modal  </description>
+    </item>
+    
+    <item>
+      <title>hugo搭建静态博客</title>
       <link>http://wwq666.github.io/post/hugo/</link>
       <pubDate>Sat, 22 Jun 2019 23:54:09 +0800</pubDate>
       

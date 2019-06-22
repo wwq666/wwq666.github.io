@@ -6,10 +6,19 @@
     <description>Recent content in Tags on wwq blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 22 Jun 2019 23:54:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 01:18:21 +0800</lastBuildDate>
     
 	<atom:link href="http://wwq666.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>English</title>
+      <link>http://wwq666.github.io/tags/english/</link>
+      <pubDate>Sun, 23 Jun 2019 01:18:21 +0800</pubDate>
+      
+      <guid>http://wwq666.github.io/tags/english/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hugo</title>

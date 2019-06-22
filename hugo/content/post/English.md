@@ -1,16 +1,16 @@
 ---
-title: "English"
+title: "程序员易读错的英文单词"
 date: 2019-06-23T01:18:21+08:00
 lastmod: 2019-06-23T01:18:21+08:00
 keywords: []
-tags: []
+tags: [English]
 categories: []
 toc: true
 autoCollapseToc: false
-draft: true  # 设为false可被编译为HTML，true供本地修改
+draft: false  # 设为false可被编译为HTML，true供本地修改
 ---
 
-## 收集程序员易读错的英文单词（你以为你读对了）
+## 你以为你读对了
 - byte
 - babel
 - buffer
