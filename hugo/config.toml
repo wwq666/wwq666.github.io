@@ -1,0 +1,45 @@
+baseURL = "http://wwq666.github.io/"
+languageCode = "zh-cn"
+title = "wwq blog"
+enableEmoji = true
+theme = "jane"
+paginate = 5 # 首页每页显示的文章数
+
+[author]
+  name = "wwq"
+
+[params]
+  since = "2019" # 站点建立时间
+  homeFullContent = false # if false, show post summaries on home page. Othewise show full content.
+  archive-paginate = 20 # 归档、标签、分类每页显示的文章数目
+  dateFormatToUse = "2006-01-02"
+  moreMeta = true
+  showMenuLanguageChooser = true
+  showAuthorInfo = true # show author info below the article
+  photoswipe = true # 是否启用图片可点击
+
+[[menu.main]] # 配置目录
+  name = "This is Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Archives"
+  weight = 20
+  identifier = "archives"
+  url = "/post/"
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
+[[menu.main]]
+  name = "About"
+  weight = 50
+  identifier = "about"
+  url = "/about/"
