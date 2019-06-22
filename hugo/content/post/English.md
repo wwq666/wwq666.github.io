@@ -10,79 +10,83 @@ autoCollapseToc: false
 draft: false  # 设为false可被编译为HTML，true供本地修改
 ---
 
-## 你以为你读对了
-- byte
-- babel
-- buffer
-- ajax
-- Angular
-- archive
-- attribute
-- avatar
-- access
-- admin
-- agile
-- app
-- analyse
-- analysis
-- Linux
-- Daemon
-- Django
-- data
-- integer
-- resume
-- bash
-- domain
-- Ubuntu
-- CentOS
-- integer
-- origin
-- array
-- json
-- jpg
-- Java
-- cache
-- queue
-- image
-- width
-- padding
-- margin
-- avatar
-- label
-- git
-- plugin
-- parse
-- async
-- alias
-- Apache
-- Nginx
-- chaos
-- hidden
-- query
-- MySQL
-- Oracle
-- archive
-- bind
-- mobile
-- protocol
-- variable
-- Chrome
-- console
-- Safari
-- Django
-- YouTube
-- secret
-- Adobe
-- amazon
-- google
-- null
-- export
-- execute
-- explore
-- explode
-- init
-- config
-- controller
-- patch
-- module
-- modal
+### 小时候学过音标，对读音挺敏感，经常听到周围人读错单词，我这里收集了一下。很多都是你以为你读对了
+- ajax [朗读](http://dict.youdao.com/speech?audio=ajax)
+- array [朗读](http://dict.youdao.com/speech?audio=array)
+- async [朗读](http://dict.youdao.com/speech?audio=async)
+- alias [朗读](http://dict.youdao.com/speech?audio=alias)
+- Angular [朗读](http://dict.youdao.com/speech?audio=Angular)
+- Apache [朗读](http://dict.youdao.com/speech?audio=Apache)
+- archive [朗读](http://dict.youdao.com/speech?audio=asarchiveync)
+- attribute [朗读](http://dict.youdao.com/speech?audio=attribute)
+- avatar [朗读](http://dict.youdao.com/speech?audio=avatar)
+- Adobe [朗读](http://dict.youdao.com/speech?audio=Adobe)
+- amazon [朗读](http://dict.youdao.com/speech?audio=amazon)
+- access [朗读](http://dict.youdao.com/speech?audio=access)
+- admin [朗读](http://dict.youdao.com/speech?audio=admin)
+- agile [朗读](http://dict.youdao.com/speech?audio=agile)
+- app [朗读](http://dict.youdao.com/speech?audio=app)
+- avatar [朗读](http://dict.youdao.com/speech?audio=avatar)
+- analyse [朗读](http://dict.youdao.com/speech?audio=analyse)
+- analysis [朗读](http://dict.youdao.com/speech?audio=analysis)
+- bind [朗读](http://dict.youdao.com/speech?audio=bind)
+- byte [朗读](http://dict.youdao.com/speech?audio=byte)
+- bash [朗读](http://dict.youdao.com/speech?audio=bash)
+- babel [朗读](http://dict.youdao.com/speech?audio=babel)
+- buffer [朗读](http://dict.youdao.com/speech?audio=buffer)
+- config [朗读](http://dict.youdao.com/speech?audio=config)
+- controller [朗读](http://dict.youdao.com/speech?audio=controller)
+- constructor [朗读](http://dict.youdao.com/speech?audio=constructor)
+- cache [朗读](http://dict.youdao.com/speech?audio=cache)
+- Chrome [朗读](http://dict.youdao.com/speech?audio=Chrome)
+- console [朗读](http://dict.youdao.com/speech?audio=console)
+- chaos [朗读](http://dict.youdao.com/speech?audio=chaos)
+- CentOS [朗读](http://dict.youdao.com/speech?audio=CentOS)
+- Daemon [朗读](http://dict.youdao.com/speech?audio=Daemon)
+- Django [朗读](http://dict.youdao.com/speech?audio=Django)
+- data [朗读](http://dict.youdao.com/speech?audio=data)
+- domain [朗读](http://dict.youdao.com/speech?audio=domain)
+- export [朗读](http://dict.youdao.com/speech?audio=export)
+- execute [朗读](http://dict.youdao.com/speech?audio=execute)
+- explore [朗读](http://dict.youdao.com/speech?audio=explore)
+- explode [朗读](http://dict.youdao.com/speech?audio=explode)
+- git [朗读](http://dict.youdao.com/speech?audio=git)
+- github [朗读](http://dict.youdao.com/speech?audio=github)
+- google [朗读](http://dict.youdao.com/speech?audio=google)
+- hidden [朗读](http://dict.youdao.com/speech?audio=hidden)
+- image [朗读](http://dict.youdao.com/speech?audio=image)
+- integer [朗读](http://dict.youdao.com/speech?audio=integer)
+- init [朗读](http://dict.youdao.com/speech?audio=init)
+- initial [朗读](http://dict.youdao.com/speech?audio=initial)
+- json [朗读](http://dict.youdao.com/speech?audio=json)
+- jpg [朗读](http://dict.youdao.com/speech?audio=jpg)
+- kubernetes [朗读](http://dict.youdao.com/speech?audio=kubernetes)
+- Java [朗读](http://dict.youdao.com/speech?audio=Java)
+- label [朗读](http://dict.youdao.com/speech?audio=label)
+- Linux [朗读](http://dict.youdao.com/speech?audio=Linux)
+- max [朗读](http://dict.youdao.com/speech?audio=max)
+- mac [朗读](http://dict.youdao.com/speech?audio=mac)
+- module [朗读](http://dict.youdao.com/speech?audio=module)
+- modal [朗读](http://dict.youdao.com/speech?audio=modal)
+- margin [朗读](http://dict.youdao.com/speech?audio=margin)
+- mobile [朗读](http://dict.youdao.com/speech?audio=mobile)
+- MySQL [朗读](http://dict.youdao.com/speech?audio=MySQL)
+- Nginx [朗读](http://dict.youdao.com/speech?audio=Nginx)
+- null [朗读](http://dict.youdao.com/speech?audio=null)
+- origin [朗读](http://dict.youdao.com/speech?audio=origin)
+- Oracle [朗读](http://dict.youdao.com/speech?audio=Oracle)
+- width [朗读](http://dict.youdao.com/speech?audio=width)
+- padding [朗读](http://dict.youdao.com/speech?audio=padding)
+- plugin [朗读](http://dict.youdao.com/speech?audio=plugin)
+- parse [朗读](http://dict.youdao.com/speech?audio=parse)
+- protocol [朗读](http://dict.youdao.com/speech?audio=protocol)
+- patch [朗读](http://dict.youdao.com/speech?audio=patch)
+- query [朗读](http://dict.youdao.com/speech?audio=query)
+- queue [朗读](http://dict.youdao.com/speech?audio=queue)
+- resume [朗读](http://dict.youdao.com/speech?audio=resume)
+- Safari [朗读](http://dict.youdao.com/speech?audio=Safari)
+- secret [朗读](http://dict.youdao.com/speech?audio=secret)
+- string [朗读](http://dict.youdao.com/speech?audio=string)
+- variable [朗读](http://dict.youdao.com/speech?audio=variable)
+- variable [朗读](http://dict.youdao.com/speech?audio=variable)
+- YouTube [朗读](http://dict.youdao.com/speech?audio=YouTube)
