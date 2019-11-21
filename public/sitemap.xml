@@ -1,49 +1,17 @@
-<?xml-stylesheet type="text/xsl" href="http://wwq666.github.io/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://wwq666.github.io/post/hugo/</loc>
-    <lastmod>2019-06-22T23:54:09+08:00</lastmod>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>http://wwq666.github.io/post/</loc>
-    <lastmod>2019-06-22T23:54:09+08:00</lastmod>
-    <priority>0</priority>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://wwq666.github.io/tags/</loc>
-    <lastmod>2019-06-22T23:54:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://wwq666.github.io/tags/hugo/</loc>
-    <lastmod>2019-06-22T23:54:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://wwq666.github.io/</loc>
-    <lastmod>2019-06-22T23:54:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://wwq666.github.io/about/</loc>
-    <lastmod>2019-06-22T23:53:45+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://wwq666.github.io/tags/me/</loc>
-    <lastmod>2019-06-22T23:53:45+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://wwq666.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

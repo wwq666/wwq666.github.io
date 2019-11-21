@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>me on wwq blog</title>
+    <title>me on wwq技术博客</title>
     <link>http://wwq666.github.io/tags/me/</link>
-    <description>Recent content in me on wwq blog</description>
+    <description>Recent content in me on wwq技术博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 22 Jun 2019 23:53:45 +0800</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 22 Jun 2019 23:53:45 +0800</pubDate>
       
       <guid>http://wwq666.github.io/about/</guid>
-      <description> 我，golang后端开发 从不更新的github  </description>
+      <description>我，现在是Golang后端开发，自学PHP和JavaScript入行，正在学习Python3。 从不更新的github 从不更新的blog</description>
     </item>
     
   </channel>

@@ -6,8 +6,10 @@ keywords: []
 tags: ["hugo"]
 categories: []
 toc: true
-autoCollapseToc: false
+comment: true
+reward: true
 draft: false  # 设为false可被编译为HTML，true供本地修改
+contentCopyright: '<a href="https://github.com/wwq666" rel="noopener" target="_blank">See origin</a>'
 ---
 
 ## 前言
@@ -82,10 +84,14 @@ git push -u origin master
 ```
 
 - 完成以上命令后，等待一分钟左右即可在 https://wwq666.github.io/ 访问你的网站。
-- 以后每次更新文章后只用将生成的/public文件夹的静态网站内容复制到/wwq666.github.io，然后再push到远程仓库即可。也可将步骤写为Shell脚本，此处不再赘述。
+- 以后每次更新文章后只用将生成的/public文件夹的静态网站内容复制到/wwq666.github.io，然后再push到远程仓库即可。也可将步骤写为Shell脚本，可以参考我写的脚本deploy.sh。
 
 ### 使用自己的域名
 略
 
+### 评论
+[utterances](https://github.com/utterance/utterances)
+
 ## 参考
-[参考](https://suixinblog.cn/2018/09/hugo.html)
+- [参考](https://suixinblog.cn/2018/09/hugo.html)
+- [官方文档](https://www.gohugo.org/)

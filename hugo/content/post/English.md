@@ -6,11 +6,14 @@ keywords: []
 tags: [English]
 categories: []
 toc: true
-autoCollapseToc: false
+comment: true
+reward: true
 draft: false  # 设为false可被编译为HTML，true供本地修改
+contentCopyright: '<a href="https://github.com/wwq666" rel="noopener" target="_blank">See origin</a>'
 ---
 
-### 小时候学过音标，对读音挺敏感，经常听到周围人读错单词，我这里收集了一下。很多都是你以为你读对了
+收集开发中易读错的英语单词，很多都是你以为你读对了。
+
 - ajax [朗读](http://dict.youdao.com/speech?audio=ajax)
 - array [朗读](http://dict.youdao.com/speech?audio=array)
 - async [朗读](http://dict.youdao.com/speech?audio=async)
@@ -45,7 +48,10 @@ draft: false  # 设为false可被编译为HTML，true供本地修改
 - Daemon [朗读](http://dict.youdao.com/speech?audio=Daemon)
 - Django [朗读](http://dict.youdao.com/speech?audio=Django)
 - data [朗读](http://dict.youdao.com/speech?audio=data)
+- date [朗读](http://dict.youdao.com/speech?audio=date)
 - domain [朗读](http://dict.youdao.com/speech?audio=domain)
+- exist [朗读](http://dict.youdao.com/speech?audio=exist)
+- exit [朗读](http://dict.youdao.com/speech?audio=exit)
 - export [朗读](http://dict.youdao.com/speech?audio=export)
 - execute [朗读](http://dict.youdao.com/speech?audio=execute)
 - explore [朗读](http://dict.youdao.com/speech?audio=explore)
@@ -69,13 +75,13 @@ draft: false  # 设为false可被编译为HTML，true供本地修改
 - module [朗读](http://dict.youdao.com/speech?audio=module)
 - modal [朗读](http://dict.youdao.com/speech?audio=modal)
 - margin [朗读](http://dict.youdao.com/speech?audio=margin)
+- maven [朗读](http://dict.youdao.com/speech?audio=maven)
 - mobile [朗读](http://dict.youdao.com/speech?audio=mobile)
 - MySQL [朗读](http://dict.youdao.com/speech?audio=MySQL)
 - Nginx [朗读](http://dict.youdao.com/speech?audio=Nginx)
 - null [朗读](http://dict.youdao.com/speech?audio=null)
 - origin [朗读](http://dict.youdao.com/speech?audio=origin)
 - Oracle [朗读](http://dict.youdao.com/speech?audio=Oracle)
-- width [朗读](http://dict.youdao.com/speech?audio=width)
 - padding [朗读](http://dict.youdao.com/speech?audio=padding)
 - plugin [朗读](http://dict.youdao.com/speech?audio=plugin)
 - parse [朗读](http://dict.youdao.com/speech?audio=parse)
@@ -84,9 +90,13 @@ draft: false  # 设为false可被编译为HTML，true供本地修改
 - query [朗读](http://dict.youdao.com/speech?audio=query)
 - queue [朗读](http://dict.youdao.com/speech?audio=queue)
 - resume [朗读](http://dict.youdao.com/speech?audio=resume)
+- sudo [朗读](http://dict.youdao.com/speech?audio=sudo)
 - Safari [朗读](http://dict.youdao.com/speech?audio=Safari)
+- scheme [朗读](http://dict.youdao.com/speech?audio=scheme)
 - secret [朗读](http://dict.youdao.com/speech?audio=secret)
 - string [朗读](http://dict.youdao.com/speech?audio=string)
+- tiny [朗读](http://dict.youdao.com/speech?audio=tiny)
+- Ubuntu [朗读](http://dict.youdao.com/speech?audio=Ubuntu)
 - variable [朗读](http://dict.youdao.com/speech?audio=variable)
-- variable [朗读](http://dict.youdao.com/speech?audio=variable)
+- width [朗读](http://dict.youdao.com/speech?audio=witdth)
 - YouTube [朗读](http://dict.youdao.com/speech?audio=YouTube)
